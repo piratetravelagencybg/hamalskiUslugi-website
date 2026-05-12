@@ -13,4 +13,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://ТВОЯТ-ДОМЕЙН.BG/sitemap.xml
+Sitemap: https://www.hamaliblagoevgrad.com/sitemap.xml

@@ -2,16 +2,16 @@
 > Професионални хамалски услуги в Благоевград и региона — преместване на апартаменти и офиси, извозване на стари мебели, транспорт с бус, качване и сваляне до етаж.
 
 ## Услуги
-- Преместване на апартаменти: https://ТВОЯТ-ДОМЕЙН.BG/#services
-- Преместване на офиси: https://ТВОЯТ-ДОМЕЙН.BG/#services
-- Извозване на стари мебели: https://ТВОЯТ-ДОМЕЙН.BG/#services
-- Почистване на мазета и тавани: https://ТВОЯТ-ДОМЕЙН.BG/#services
-- Качване и сваляне до етаж: https://ТВОЯТ-ДОМЕЙН.BG/#services
-- Транспорт с бус: https://ТВОЯТ-ДОМЕЙН.BG/#services
+- Преместване на апартаменти: https://www.hamaliblagoevgrad.com/#services
+- Преместване на офиси: https://www.hamaliblagoevgrad.com/#services
+- Извозване на стари мебели: https://www.hamaliblagoevgrad.com/#services
+- Почистване на мазета и тавани: https://www.hamaliblagoevgrad.com/#services
+- Качване и сваляне до етаж: https://www.hamaliblagoevgrad.com/#services
+- Транспорт с бус: https://www.hamaliblagoevgrad.com/#services
 
 ## Контакт
 - Телефон: 0878 123 456
-- https://ТВОЯТ-ДОМЕЙН.BG/#hero
+- https://www.hamaliblagoevgrad.com/#hero
 
 ## Локация
 Благоевград, България. Обслужваме: Благоевград, София, Сандански, Петрич, Дупница, Перник.
